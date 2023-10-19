@@ -31,7 +31,7 @@ Let's build the web of the future, one pixel at a time! 🌐✨
 
 Connect with me: <br>
 🌐 Portfolio: https://shamontihaque.netlify.app/ <br>
-📧 Email: shamonti.haque98@email.com <br>
+📧 Email: shamonti.haque98@gmail.com <br>
 📱 LinkedIn: https://www.linkedin.com/in/shamontihaque <br>
 🐦 Twitter: https://twitter.com/Shamonti_haque <br>
 📷 Instagram: https://www.instagram.com/shamontihaque/<br>
