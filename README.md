@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 Let's build the web of the future, one pixel at a time! 🌐✨
 
 Connect with me:
-🌐 Portfolio: https://shamontihaque.netlify.app/
+🌐 Portfolio: https://shamontihaque.netlify.app/ <br>
 📧 Email: shamonti.haque98@email.com
 📱 LinkedIn: https://www.linkedin.com/in/shamontihaque
 🐦 Twitter: https://twitter.com/Shamonti_haque
