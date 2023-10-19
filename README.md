@@ -34,7 +34,7 @@ Connect with me:
 📧 Email: shamonti.haque98@email.com
 📱 LinkedIn: https://www.linkedin.com/in/shamontihaque
 🐦 Twitter: https://twitter.com/Shamonti_haque
-📷 Instagram: [https://www.instagram.com/shamontihaque/]
+📷 Instagram: https://www.instagram.com/shamontihaque/
 
 #FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #ReactJS
 
