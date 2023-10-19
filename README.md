@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 Let's build the web of the future, one pixel at a time! 🌐✨
 
 Connect with me:
-🌐 Portfolio: [https://shamontihaque.netlify.app/]
-📧 Email: [shamonti.haque98@email.com]
-📱 LinkedIn: [https://www.linkedin.com/in/shamontihaque]
+🌐 Portfolio: https://shamontihaque.netlify.app/
+📧 Email: shamonti.haque98@email.com
+📱 LinkedIn: https://www.linkedin.com/in/shamontihaque
 <!--🐦 Twitter: [YourTwitterHandle]
 📷 Instagram: [YourInstagramHandle]-->
 
 #FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #ReactJS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)-->
 
