@@ -33,8 +33,8 @@ Connect with me:
 🌐 Portfolio: https://shamontihaque.netlify.app/
 📧 Email: shamonti.haque98@email.com
 📱 LinkedIn: https://www.linkedin.com/in/shamontihaque
-<!--🐦 Twitter: [YourTwitterHandle]
-📷 Instagram: [YourInstagramHandle]-->
+🐦 Twitter: https://twitter.com/Shamonti_haque
+📷 Instagram: [https://www.instagram.com/shamontihaque/]
 
 #FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #ReactJS
 
