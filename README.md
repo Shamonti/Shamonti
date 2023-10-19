@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 Let's build the web of the future, one pixel at a time! 🌐✨
 
 Connect with me: <br>
-🌐 Portfolio: https://shamontihaque.netlify.app/ <br>
+🌐 Portfolio: https://shamontihaque.netlify.app <br>
 📧 Email: shamonti.haque98@gmail.com <br>
 📱 LinkedIn: https://www.linkedin.com/in/shamontihaque <br>
 🐦 Twitter: https://twitter.com/Shamonti_haque <br>
-📷 Instagram: https://www.instagram.com/shamontihaque/<br>
+📷 Instagram: https://www.instagram.com/shamontihaque <br>
 
 #FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #ReactJS
 
