@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 🚀 Transforming Ideas into Engaging Web Solutions 🖥️
 
-🎨 Crafting Beautiful User Interfaces with HTML5, CSS3, and JavaScript ✨
+🎨 Crafting Beautiful User Interfaces with HTML, CSS, and JavaScript ✨
 
-💡 Leveraging the Power of Bootstrap5 and ReactJS to Build Dynamic Web Apps 📱
+💡 Leveraging the Power of Bootstrap5, Tailwind CSS and ReactJS to Build Dynamic Web Apps 📱
 
 🌟 Passionate about Pixel-Perfect Design and Seamless User Experiences 🎯
 
@@ -36,7 +36,7 @@ Connect with me: <br>
 🐦 Twitter: https://twitter.com/Shamonti_haque <br>
 📷 Instagram: https://www.instagram.com/shamontihaque <br>
 
-#FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #ReactJS
+#FrontendDeveloper #ResponsiveDesign #HTML #CSS #JavaScript #Bootstrap #Tailwind #ReactJS
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)-->
 
