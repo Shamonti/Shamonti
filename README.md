@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🎨 Crafting Beautiful User Interfaces with HTML, CSS, and JavaScript ✨
 
-💡 Leveraging the Power of Bootstrap5, Tailwind CSS and ReactJS to Build Dynamic Web Apps 📱
+💡 Leveraging the Power of JavaScript and ReactJS to Build Dynamic Web Apps 📱
 
 🌟 Passionate about Pixel-Perfect Design and Seamless User Experiences 🎯
 
