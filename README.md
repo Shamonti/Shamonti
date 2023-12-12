@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🚀 Transforming Ideas into Engaging Web Solutions 🖥️
 
-🎨 Crafting Beautiful User Interfaces with HTML, CSS, and JavaScript ✨
+🎨 Crafting Beautiful User Interfaces with HTML, CSS, Bootstrap, and JavaScript ✨
 
 💡 Leveraging the Power of JavaScript and ReactJS to Build Dynamic Web Apps 📱
 
