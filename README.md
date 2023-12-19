@@ -16,15 +16,10 @@ Here are some ideas to get you started:
 -->
 
 👋 Frontend Developer | Creating Responsive Web Experiences 🌐
-
 🚀 Transforming Ideas into Engaging Web Solutions 🖥️
-
 🎨 Crafting Beautiful User Interfaces with HTML, CSS, Bootstrap, and JavaScript ✨
-
 💡 Leveraging the Power of JavaScript and ReactJS to Build Dynamic Web Apps 📱
-
 🌟 Passionate about Pixel-Perfect Design and Seamless User Experiences 🎯
-
 💻 Code | Design | Repeat 🔄
 
 Let's build the web of the future, one pixel at a time! 🌐✨
