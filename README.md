@@ -31,7 +31,7 @@ Connect with me: <br>
 🐦 Twitter: https://twitter.com/Shamonti_haque <br>
 📷 Instagram: https://www.instagram.com/shamontihaque <br>
 
-#FrontendDeveloper #ResponsiveDesign #JavaScript #Bootstrap #Tailwind #ReactJS
+#FrontendDeveloper #ResponsiveDesign #JavaScript #Bootstrap #Tailwind #ReactJS #TypeScript
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)-->
 
