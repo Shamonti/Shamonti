@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📷 Instagram: [instagram.com/shamontihaque](https://www.instagram.com/shamontihaque)
 
 ## GitHub Stats
-[![Shamonti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamonti)](https://github.com/shamonti/github-readme-stats)
+[![Shamonti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamonti&show_icons=true&theme=radical)](https://github.com/shamonti/github-readme-stats)
 
 ## My Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamonti&layout=compact)
