@@ -15,23 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Frontend Developer | Creating Responsive Web Experiences 🌐 <br>
-🚀 Transforming Ideas into Engaging Web Solutions 🖥️ <br>
-🎨 Crafting Beautiful User Interfaces with HTML, CSS, Bootstrap, and JavaScript ✨ <br>
-💡 Leveraging the Power of JavaScript and ReactJS to Build Dynamic Web Apps 📱 <br>
-🌟 Passionate about Pixel-Perfect Design and Seamless User Experiences 🎯 <br>
-💻 Code | Design | Repeat 🔄
+# Hi there! 👋 I'm Shamonti Haque
 
-Let's build the web of the future, one pixel at a time! 🌐✨
+## About Me
+- 👩‍💻 Frontend Developer passionate about creating responsive and engaging web experiences.
+- 🚀 Transforming ideas into beautiful and functional web solutions.
+- 🎨 Crafting pixel-perfect user interfaces with HTML, CSS, Bootstrap, and JavaScript.
+- 💡 Leveraging the power of JavaScript and ReactJS to build dynamic web applications.
+- 🌟 Dedicated to delivering seamless user experiences through thoughtful design and development.
+- 💻 Code | Design | Repeat 🔄
 
-Connect with me: <br>
-🌐 Portfolio: https://shamontihaque.netlify.app <br>
-📧 Email: shamonti.haque98@gmail.com <br>
-📱 LinkedIn: https://www.linkedin.com/in/shamontihaque <br>
-🐦 Twitter: https://twitter.com/Shamonti_haque <br>
-📷 Instagram: https://www.instagram.com/shamontihaque <br>
+- 🌐 Let's build the web of the future, one pixel at a time! ✨
 
+## Connect with Me
+- 🌐 Portfolio: [shamontihaque.netlify.app](https://shamontihaque.netlify.app)
+- 📧 Email: shamonti.haque98@gmail.com
+- 📱 LinkedIn: [linkedin.com/in/shamontihaque](https://www.linkedin.com/in/shamontihaque)
+- 🐦 Twitter: [twitter.com/Shamonti_haque](https://twitter.com/Shamonti_haque)
+- 📷 Instagram: [instagram.com/shamontihaque](https://www.instagram.com/shamontihaque)
+
+## GitHub Stats
+![Shamonti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamontihaque&show_icons=true&theme=radical)
+
+## My Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamontihaque&layout=compact)
+
+## Expertise
 #FrontendDeveloper #ResponsiveDesign #JavaScript #Bootstrap #Tailwind #ReactJS #TypeScript
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)-->
 
