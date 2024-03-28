@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👩‍💻 Frontend Developer passionate about creating responsive and engaging web experiences.
 - 🚀 Transforming ideas into beautiful and functional web solutions.
 - 🎨 Crafting pixel-perfect user interfaces with HTML, CSS, Bootstrap, and JavaScript.
-- 💡 Leveraging the power of JavaScript and ReactJS to build dynamic web applications.
+- 💡 Leveraging the power of JavaScript, ReactJS and TypeScript to build dynamic web applications.
 - 🌟 Dedicated to delivering seamless user experiences through thoughtful design and development.
 - 💻 Code | Design | Repeat 🔄
 
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 - 📷 Instagram: [instagram.com/shamontihaque](https://www.instagram.com/shamontihaque)
 
 ## GitHub Stats
-![Shamonti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamontihaque&show_icons=true&theme=radical)
+[![Shamonti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamonti)](https://github.com/shamonti/github-readme-stats)
 
 ## My Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamontihaque&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamonti&layout=compact)
 
 ## Expertise
 #FrontendDeveloper #ResponsiveDesign #JavaScript #Bootstrap #Tailwind #ReactJS #TypeScript
