@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌟 Dedicated to delivering seamless user experiences through thoughtful design and development.
 - 💻 Code | Design | Repeat 🔄
 
-- 🌐 Let's build the web of the future, one pixel at a time! ✨
+🌐 Let's build the web of the future, one pixel at a time! ✨
 
 ## Connect with Me
 - 🌐 Portfolio: [shamontihaque.netlify.app](https://shamontihaque.netlify.app)
