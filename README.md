@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📷 Instagram: [instagram.com/shamontihaque](https://www.instagram.com/shamontihaque)
 
 ## GitHub Stats
-[![Shamonti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamonti&show_icons=true&theme=vue-dark)](https://github.com/shamonti/github-readme-stats)
+<!-- [![Shamonti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamonti&show_icons=true&theme=vue-dark)](https://github.com/shamonti/github-readme-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shamonti&theme=vue-dark)](https://git.io/streak-stats)
 
 ## My Tech Stack
